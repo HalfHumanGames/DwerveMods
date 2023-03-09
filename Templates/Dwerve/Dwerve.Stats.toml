@@ -1,0 +1,24 @@
+ModTarget = "Dwerve"
+
+[Stats]
+Health = 100 # challenge difficulty without chainmail upgrade
+Armor = 100
+CollectRadius = 2.0
+PowerStones = 6
+Speed = 4.3
+DashSpeed = 13.3333
+DashLength = 4
+DashCooldown = 4.0
+DashDamage = 20 # without fire boots and pickaxe
+DashKnockback =  1.0
+DashKnockbackStunDuration =  0.5
+OutOfCombatSpeedMultiplier = 1.25 # 25% faster
+OutOfCombatDashCooldownMultiplier = 0.75 # 25% shorter
+BoomerangeDamage = 10 # without boomeraxe upgrade
+BoomerangRange = 4.0
+BoomerangTravelSpeed = 16.0
+WarhammerDamage = 100
+WarhammerRadius = 2.3
+WarhammerKnockback = 3.0
+WarhammerStunDuration = 2.0
+WarhammerRechargeDuration = 0.0 # recharges at workbench by default

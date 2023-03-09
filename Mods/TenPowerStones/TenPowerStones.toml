@@ -1,0 +1,5 @@
+ModTarget = "Configuration"
+GameMode = "Campaign"
+
+[PowerStones]
+10 = "1.1"

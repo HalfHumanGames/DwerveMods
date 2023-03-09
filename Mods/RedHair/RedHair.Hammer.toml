@@ -1,0 +1,38 @@
+ModTarget = "Dwerve"
+
+[Sprites]
+Texture = "RedHair.Hammer.png"
+Width = 80 
+Height = 96
+
+[Sprites.Animations]
+Hammer = "0-25,0"
+
+[Sprites.FrameDurations]
+Default = 200        
+0 = 100
+1 = 120
+2 = 300
+3 = 100
+4 = 60
+5 = 80
+6 = 80
+7 = 80
+8 = 150
+9 = 150
+10 = 80
+11 = 80
+12 = 60
+13 = 40
+14 = 60
+15 = 80
+16 = 80
+17 = 80
+18 = 100
+19 = 100
+20 = 100
+21 = 100
+22 = 100
+23 = 80
+24 = 80
+25 = 100

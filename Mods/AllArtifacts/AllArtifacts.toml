@@ -1,0 +1,12 @@
+ModTarget = "Configuration"
+GameMode = "Campaign"
+
+[Artifacts]
+Boots = "1.1"
+Shield = "1.1"
+Boomerang = "1.1"
+Boomeraxe = "1.1"
+Warhammer = "1.1"
+Chainmail = "1.1"
+FireBoots = "1.1"
+Pickaxe = "1.1"

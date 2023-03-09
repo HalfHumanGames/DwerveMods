@@ -1,0 +1,5 @@
+ModTarget = "Tower.Scattershot"
+
+[Stats] 
+Range = 9
+ProjectileMaxDistance = 10

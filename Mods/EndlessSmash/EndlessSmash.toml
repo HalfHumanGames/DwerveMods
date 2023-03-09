@@ -1,0 +1,4 @@
+ModTarget = "Dwerve"
+
+[Stats]
+WarhammerRechargeDuration = 0.01

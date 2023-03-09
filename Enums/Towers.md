@@ -1,0 +1,17 @@
+# Towers
+* Axe
+* Bear
+* Chakram
+* Crossbow
+* FakeGoat
+* Flamethrower
+* Harpoon
+* Mortar
+* Punch
+* Scattershot
+* Solaris
+* Spike
+* Spinblade
+* Tar
+* Tesla
+* Zap

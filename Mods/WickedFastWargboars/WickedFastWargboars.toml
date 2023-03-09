@@ -1,0 +1,5 @@
+ModTarget = "Enemy.Wargboar"
+
+[Stats]
+Health = 15
+Speed = 9

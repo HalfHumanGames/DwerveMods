@@ -1,0 +1,8 @@
+ModTarget = "Tower.Chakram"
+
+[Stats]
+MaxProjectiles = 4
+ProjectileTravelSpeed = 4
+
+[Stats.Effects]
+KnockbackAmount = 4

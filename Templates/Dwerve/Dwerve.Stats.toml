@@ -2,9 +2,9 @@ ModTarget = "Dwerve"
 
 [Stats]
 Health = 100 # challenge difficulty without chainmail upgrade
-Armor = 100
+Armor = 100 # determines how much increased health armor pickups give
 CollectRadius = 2.0
-PowerStones = 6
+PowerStones = 0 # depends on progression by default
 Speed = 4.3
 DashSpeed = 13.3333
 DashLength = 4

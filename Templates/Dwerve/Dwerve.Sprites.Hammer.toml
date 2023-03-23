@@ -1,7 +1,7 @@
 ModTarget = "Dwerve"
 
 [Sprites]
-Texture = "RedHair.Hammer.png"
+Texture = "Dwerve.Sprites.Hammer.png"
 Width = 80 
 Height = 96
 

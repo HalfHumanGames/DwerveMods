@@ -1,0 +1,12 @@
+ModTarget = "Dwerve"
+
+[Portraits]
+Texture = "Dwerve.Sprites.Portrait.png"
+
+[Portraits.Sprites]
+Default = 0
+Sad = 1
+Mad = 2
+Crying = 3
+Determined = 4
+Puzzled = 5

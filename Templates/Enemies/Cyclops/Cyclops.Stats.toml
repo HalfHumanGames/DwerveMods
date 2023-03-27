@@ -1,0 +1,17 @@
+ModTarget = "Enemy.Cyclops"
+
+[Stats]
+Health = 140
+ClassicTDHealth = 200
+Speed = 2.0
+ClassicTDSpeed = 1.5
+Range = 7.0
+ProjectileTravelSpeed = 20.0
+ProjectileMaxDistance = 8.0
+Damage = 10
+
+[Stats.Resistance]
+Slow = 0.0
+Stun = 0.0
+Knockback = 0.100000001
+Poison = 0.0

@@ -1,0 +1,17 @@
+ModTarget = "Enemy.TrollShaman"
+
+[Stats]
+Health = 80
+ClassicTDHealth = 60
+Speed = 2.0
+ClassicTDSpeed = 3.0
+Range = 2.29999995
+ProjectileTravelSpeed = 7.0
+ProjectileMaxDistance = 6.0
+Damage = 30
+
+[Stats.Resistance]
+Slow = 0.0
+Stun = 0.0
+Knockback = 0.0
+Poison = 0.0

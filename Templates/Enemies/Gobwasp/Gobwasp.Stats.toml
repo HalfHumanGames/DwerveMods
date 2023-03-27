@@ -1,0 +1,17 @@
+ModTarget = "Enemy.Gobwasp"
+
+[Stats]
+Health = 35
+ClassicTDHealth = 35
+Speed = 2.0
+ClassicTDSpeed = 2.0
+Range = 3.0
+ProjectileTravelSpeed = 9.0
+ProjectileMaxDistance = 5.0
+Damage = 15
+
+[Stats.Resistance]
+Slow = 0.0
+Stun = 0.0
+Knockback = 0.0
+Poison = 0.0

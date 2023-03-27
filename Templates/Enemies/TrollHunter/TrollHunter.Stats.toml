@@ -1,0 +1,17 @@
+ModTarget = "Enemy.TrollHunter"
+
+[Stats]
+Health = 60
+ClassicTDHealth = 60
+Speed = 3.0
+ClassicTDSpeed = 3.0
+Range = 5.0
+ProjectileTravelSpeed = 7.0
+ProjectileMaxDistance = 6.0
+Damage = 30
+
+[Stats.Resistance]
+Slow = 0.0
+Stun = 0.0
+Knockback = 0.0
+Poison = 0.0

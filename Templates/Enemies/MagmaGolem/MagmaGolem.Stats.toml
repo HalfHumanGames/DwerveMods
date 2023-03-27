@@ -1,0 +1,17 @@
+ModTarget = "Enemy.MagmaGolem"
+
+[Stats]
+Health = 160
+ClassicTDHealth = 110
+Speed = 1.0
+ClassicTDSpeed = 2.0
+Range = 1.0
+ProjectileTravelSpeed = 3.0
+ProjectileMaxDistance = 10.0
+Damage = 30
+
+[Stats.Resistance]
+Slow = 0.5
+Stun = 0.0
+Knockback = 0.5
+Poison = 0.0

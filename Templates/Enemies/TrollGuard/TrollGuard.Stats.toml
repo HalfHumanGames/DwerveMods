@@ -1,0 +1,17 @@
+ModTarget = "Enemy.TrollGuard"
+
+[Stats]
+Health = 120
+ClassicTDHealth = 110
+Speed = 1.5
+ClassicTDSpeed = 2.0
+Range = 1.0
+ProjectileTravelSpeed = 0.0
+ProjectileMaxDistance = 0.0
+Damage = 25
+
+[Stats.Resistance]
+Slow = 0.0
+Stun = 0.0
+Knockback = 0.300000012
+Poison = 0.0

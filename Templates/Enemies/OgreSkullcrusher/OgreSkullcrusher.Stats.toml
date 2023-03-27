@@ -1,0 +1,17 @@
+ModTarget = "Enemy.OgreSkullcrusher"
+
+[Stats]
+Health = 300
+ClassicTDHealth = 300
+Speed = 1.5
+ClassicTDSpeed = 1.5
+Range = 1.0
+ProjectileTravelSpeed = 0.0
+ProjectileMaxDistance = 0.0
+Damage = 200
+
+[Stats.Resistance]
+Slow = 0.0
+Stun = 0.200000003
+Knockback = 1.0
+Poison = 0.0

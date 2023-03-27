@@ -12,6 +12,6 @@ Damage = 200
 
 [Stats.Resistance]
 Slow = 0.0
-Stun = 0.200000003
+Stun = 0.2
 Knockback = 1.0
 Poison = 0.0

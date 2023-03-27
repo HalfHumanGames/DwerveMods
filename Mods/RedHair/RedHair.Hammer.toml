@@ -6,7 +6,7 @@ Width = 80
 Height = 96
 
 [Sprites.Animations]
-Hammer = "0-25,0,0"
+Hammer = "0-25,0"
 
 [Sprites.FrameDurations]
 0 = 83

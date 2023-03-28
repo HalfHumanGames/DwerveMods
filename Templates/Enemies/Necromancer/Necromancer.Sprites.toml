@@ -1,7 +1,7 @@
 ModTarget = "Enemy.Necromancer"
 
 [Sprites]
-Texture = "NecromancerSprites.png"
+Texture = "Necromancer.Sprites.png"
 Width = 48
 Height = 48
 

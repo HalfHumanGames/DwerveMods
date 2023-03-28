@@ -1,0 +1,17 @@
+ModTarget = "Tower.Harpoon"
+
+[Stats]
+Cost = 2
+ClassicTDCost = 10
+Health = 250
+Damage = 50
+ClassicTDDamage = 30
+Range = 9.0
+MaxProjectiles = 1
+ProjectileTravelSpeed = 16.0
+ProjectileMaxDistance = 12.0
+
+[Stats.Effects]
+KnockbackAmount = 2.0
+SlowAmount = 0.0
+SlowDuration = 0.0

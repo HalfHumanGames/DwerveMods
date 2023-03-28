@@ -1,0 +1,27 @@
+ModTarget = "Tower.Zap"
+
+[Sprites]
+Texture = "Zap.Sprites.png"
+Width = 32
+Height = 32
+
+[Sprites.BaseSprites]
+Base = 3
+
+[Sprites.Animations]
+Attack = "4-10"
+Idle = "3"
+Spawn = "0-3"
+
+[Sprites.FrameDurations]
+4 = 66
+5 = 66
+6 = 66
+7 = 66
+8 = 66
+9 = 66
+10 = 49
+3 = 666
+0 = 66
+1 = 66
+2 = 66

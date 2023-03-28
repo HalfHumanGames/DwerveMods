@@ -1,0 +1,17 @@
+ModTarget = "Tower.Chakram"
+
+[Stats]
+Cost = 2
+ClassicTDCost = 10
+Health = 200
+Damage = 10
+ClassicTDDamage = 10
+Range = 7.0
+MaxProjectiles = 1
+ProjectileTravelSpeed = 12.0
+ProjectileMaxDistance = 18.0
+
+[Stats.Effects]
+KnockbackAmount = 2.0
+SlowAmount = 0.0
+SlowDuration = 0.0

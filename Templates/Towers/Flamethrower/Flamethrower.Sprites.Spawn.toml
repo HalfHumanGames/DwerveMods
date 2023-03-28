@@ -1,0 +1,29 @@
+ModTarget = "Tower.Flamethrower"
+
+[Sprites]
+Texture = "Flamethrower.Sprites.Spawn.png"
+Width = 32
+Height = 32
+
+[Sprites.Animations]
+Spawn = "0-17"
+
+[Sprites.FrameDurations]
+0 = 66
+1 = 66
+2 = 66
+3 = 66
+4 = 66
+5 = 66
+6 = 66
+7 = 66
+8 = 66
+9 = 66
+10 = 66
+11 = 66
+12 = 66
+13 = 66
+14 = 66
+15 = 66
+16 = 66
+17 = 49

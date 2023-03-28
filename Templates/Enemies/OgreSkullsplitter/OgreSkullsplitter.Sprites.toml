@@ -1,7 +1,7 @@
 ModTarget = "Enemy.OgreSkullsplitter"
 
 [Sprites]
-Texture = "OgreSkullsplitterSprites.png"
+Texture = "OgreSkullsplitter.Sprites.png"
 Width = 80
 Height = 80
 

@@ -1,7 +1,7 @@
 ModTarget = "Enemy.Champimbomb"
 
 [Sprites]
-Texture = "ChampimbombSprites.png"
+Texture = "Champimbomb.Sprites.png"
 Width = 48
 Height = 48
 

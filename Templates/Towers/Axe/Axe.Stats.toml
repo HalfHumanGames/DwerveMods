@@ -1,0 +1,17 @@
+ModTarget = "Tower.Axe"
+
+[Stats]
+Cost = 2
+ClassicTDCost = 7
+Health = 300
+Damage = 40
+ClassicTDDamage = 40
+Range = 1.0
+MaxProjectiles = 0
+ProjectileTravelSpeed = 0.0
+ProjectileMaxDistance = 0.0
+
+[Stats.Effects]
+KnockbackAmount = 0.0
+SlowAmount = 0.0
+SlowDuration = 0.0

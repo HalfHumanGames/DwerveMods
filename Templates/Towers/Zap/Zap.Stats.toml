@@ -1,0 +1,17 @@
+ModTarget = "Tower.Zap"
+
+[Stats]
+Cost = 1
+ClassicTDCost = 4
+Lifespan = 45
+Damage = 2
+ClassicTDDamage = 2
+Range = 0.0
+MaxProjectiles = 0
+ProjectileTravelSpeed = 0.0
+ProjectileMaxDistance = 0.0
+
+[Stats.Effects]
+KnockbackAmount = 0.0
+SlowAmount = 1.0
+SlowDuration = 1.0

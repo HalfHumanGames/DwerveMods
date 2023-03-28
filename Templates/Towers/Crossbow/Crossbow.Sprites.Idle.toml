@@ -1,0 +1,10 @@
+ModTarget = "Tower.Crossbow"
+
+[Sprites]
+Texture = "Crossbow.Sprites.Idle.png"
+Width = 32
+Height = 32
+
+[Sprites.BaseSprites]
+Base = 2
+CoreRight = 1

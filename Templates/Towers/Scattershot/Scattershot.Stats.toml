@@ -1,0 +1,17 @@
+ModTarget = "Tower.Scattershot"
+
+[Stats]
+Cost = 2
+ClassicTDCost = 10
+Health = 200
+Damage = 4
+ClassicTDDamage = 3
+Range = 4.0
+MaxProjectiles = 0
+ProjectileTravelSpeed = 15.0
+ProjectileMaxDistance = 4.0
+
+[Stats.Effects]
+KnockbackAmount = 0.0
+SlowAmount = 0.0
+SlowDuration = 0.0

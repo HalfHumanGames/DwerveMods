@@ -1,7 +1,7 @@
 ModTarget = "Enemy.Observer"
 
 [Sprites]
-Texture = "ObserverSprites.png"
+Texture = "Observer.Sprites.png"
 Width = 48
 Height = 48
 

@@ -1,0 +1,12 @@
+ModTarget = "Tower.Chakram"
+
+[Sprites]
+Texture = "Chakram.Sprites.Idle.png"
+Width = 32
+Height = 16
+
+[Sprites.BaseSprites]
+Base = 0
+CoreRight = 2
+CoreUp = 1
+CoreDown = 3

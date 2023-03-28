@@ -1,0 +1,17 @@
+ModTarget = "Tower.Crossbow"
+
+[Stats]
+Cost = 2
+ClassicTDCost = 7
+Health = 120
+Damage = 15
+ClassicTDDamage = 7
+Range = 9.0
+MaxProjectiles = 0
+ProjectileTravelSpeed = 25.0
+ProjectileMaxDistance = 10.0
+
+[Stats.Effects]
+KnockbackAmount = 0.0
+SlowAmount = 0.0
+SlowDuration = 0.0

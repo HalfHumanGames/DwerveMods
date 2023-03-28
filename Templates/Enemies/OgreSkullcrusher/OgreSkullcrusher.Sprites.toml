@@ -1,7 +1,7 @@
 ModTarget = "Enemy.OgreSkullcrusher"
 
 [Sprites]
-Texture = "OgreSkullcrusherSprites.png"
+Texture = "OgreSkullcrusher.Sprites.png"
 Width = 80
 Height = 80
 

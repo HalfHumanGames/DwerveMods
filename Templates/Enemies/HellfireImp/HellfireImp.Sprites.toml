@@ -1,7 +1,7 @@
 ModTarget = "Enemy.HellfireImp"
 
 [Sprites]
-Texture = "HellfireImpSprites.png"
+Texture = "HellfireImp.Sprites.png"
 Width = 48
 Height = 48
 

@@ -1,7 +1,7 @@
 ModTarget = "Enemy.Wargboar"
 
 [Sprites]
-Texture = "WargboarSprites.png"
+Texture = "Wargboar.Sprites.png"
 Width = 48
 Height = 48
 

@@ -1,7 +1,7 @@
 ModTarget = "Enemy.GnoblingDartSpitter"
 
 [Sprites]
-Texture = "GnoblingDartspitterSprites.png"
+Texture = "GnoblingDartspitter.Sprites.png"
 Width = 48
 Height = 48
 

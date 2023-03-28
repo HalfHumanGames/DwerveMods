@@ -1,7 +1,7 @@
 ModTarget = "Enemy.MagmaGolem"
 
 [Sprites]
-Texture = "MagmaGolemSprites.png"
+Texture = "MagmaGolem.Sprites.png"
 Width = 48
 Height = 48
 

@@ -1,0 +1,55 @@
+ModTarget = "Tower.Punch"
+
+[Sprites]
+Texture = "Punch.Sprites.png"
+Width = 48
+Height = 48
+
+[Sprites.BaseSprites]
+Base = 0
+
+[Sprites.Animations]
+AttackDown = "27-35"
+AttackLeft = "10-17"
+AttackRight = "10-17"
+AttackUp = "18-26"
+Idle = "9-10,9"
+Spawn = "0-9"
+
+[Sprites.FrameDurations]
+27 = 66
+28 = 66
+29 = 66
+30 = 66
+31 = 66
+32 = 66
+33 = 66
+34 = 66
+35 = 1200
+10 = 66
+11 = 66
+12 = 66
+13 = 66
+14 = 133
+15 = 66
+16 = 66
+17 = 1200
+18 = 66
+19 = 66
+20 = 66
+21 = 66
+22 = 66
+23 = 66
+24 = 66
+25 = 66
+26 = 1200
+9 = 333
+0 = 66
+1 = 66
+2 = 66
+3 = 66
+4 = 66
+5 = 66
+6 = 66
+7 = 66
+8 = 66

@@ -1,0 +1,49 @@
+ModTarget = "Tower.Axe"
+
+[Sprites]
+Texture = "Axe.Sprites.png"
+Width = 48
+Height = 48
+
+[Sprites.BaseSprites]
+Base = 8
+Cover = 2
+
+[Sprites.Animations]
+AttackDown = "23-29"
+AttackLeft = "9-14,8"
+AttackRight = "9-14,8"
+AttackUp = "16-19,19-21"
+Idle = "8,15"
+Spawn = "0-8"
+
+[Sprites.FrameDurations]
+23 = 333
+24 = 83
+25 = 83
+26 = 83
+27 = 83
+28 = 83
+29 = 166
+9 = 333
+10 = 83
+11 = 83
+12 = 83
+13 = 83
+14 = 83
+8 = 166
+16 = 333
+17 = 83
+18 = 83
+19 = 83
+20 = 83
+21 = 166
+15 = 303
+0 = 59
+1 = 59
+2 = 59
+3 = 60
+4 = 79
+5 = 60
+6 = 80
+7 = 80

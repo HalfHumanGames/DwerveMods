@@ -1,0 +1,30 @@
+ModTarget = "Tower.Tar"
+
+[Sprites]
+Texture = "Tar.Sprites.png"
+Width = 32
+Height = 32
+
+[Sprites.BaseSprites]
+Base = 0
+
+[Sprites.Animations]
+Attack = "10-14,10"
+Spawn = "0-10"
+
+[Sprites.FrameDurations]
+10 = 133
+11 = 133
+12 = 133
+13 = 133
+14 = 99
+0 = 66
+1 = 66
+2 = 66
+3 = 66
+4 = 66
+5 = 66
+6 = 66
+7 = 66
+8 = 66
+9 = 66

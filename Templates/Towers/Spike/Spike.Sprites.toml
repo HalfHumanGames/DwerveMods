@@ -1,0 +1,26 @@
+ModTarget = "Tower.Spike"
+
+[Sprites]
+Texture = "Spike.Sprites.png"
+Width = 32
+Height = 32
+
+[Sprites.BaseSprites]
+Base = 0
+
+[Sprites.Animations]
+Attack = "4-9"
+Idle = "9"
+Spawn = "0-3"
+
+[Sprites.FrameDurations]
+4 = 133
+5 = 266
+6 = 133
+7 = 133
+8 = 99
+9 = 66
+0 = 66
+1 = 66
+2 = 66
+3 = 49

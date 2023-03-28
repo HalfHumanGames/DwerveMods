@@ -1,7 +1,7 @@
 ModTarget = "Enemy.TrollExecutioner"
 
 [Sprites]
-Texture = "TrollExecutionerSprites.png"
+Texture = "TrollExecutioner.Sprites.png"
 Width = 64
 Height = 64
 

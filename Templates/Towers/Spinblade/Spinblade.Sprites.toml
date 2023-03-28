@@ -1,0 +1,30 @@
+ModTarget = "Tower.Spinblade"
+
+[Sprites]
+Texture = "Spinblade.Sprites.png"
+Width = 48
+Height = 48
+
+[Sprites.BaseSprites]
+Base = 15
+
+[Sprites.Animations]
+Attack = "8-15,8"
+Spawn = "1-7"
+
+[Sprites.FrameDurations]
+8 = -33
+9 = -33
+10 = -33
+11 = -33
+12 = -33
+13 = -33
+14 = -33
+15 = 250
+1 = 100
+2 = 66
+3 = 66
+4 = 66
+5 = 49
+6 = 66
+7 = 66

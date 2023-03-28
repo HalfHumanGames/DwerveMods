@@ -1,7 +1,7 @@
 ModTarget = "Dwerve"
 
 [Sprites]
-Texture = "Dwerve.Sprites.Main"
+Texture = "Dwerve.Sprites.png"
 Width = 48 
 Height = 48
 

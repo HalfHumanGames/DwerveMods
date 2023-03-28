@@ -1,7 +1,7 @@
 ModTarget = "Enemy.Cyclops"
 
 [Sprites]
-Texture = "CyclopsSprites.png"
+Texture = "Cyclops.Sprites.png"
 Width = 48
 Height = 48
 

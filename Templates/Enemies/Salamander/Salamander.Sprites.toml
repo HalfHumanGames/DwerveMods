@@ -1,7 +1,7 @@
 ModTarget = "Enemy.Salamander"
 
 [Sprites]
-Texture = "SalamanderSprites.png"
+Texture = "Salamander.Sprites.png"
 Width = 48
 Height = 48
 

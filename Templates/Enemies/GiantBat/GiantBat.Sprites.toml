@@ -1,7 +1,7 @@
 ModTarget = "Enemy.GiantBat"
 
 [Sprites]
-Texture = "GiantBatSprites.png"
+Texture = "GiantBat.Sprites.png"
 Width = 48
 Height = 48
 

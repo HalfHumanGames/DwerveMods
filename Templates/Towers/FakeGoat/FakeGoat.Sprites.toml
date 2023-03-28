@@ -1,0 +1,44 @@
+ModTarget = "Tower.FakeGoat"
+
+[Sprites]
+Texture = "FakeGoat.Sprites.png"
+Width = 64
+Height = 64
+
+[Sprites.BaseSprites]
+Base = 8
+
+[Sprites.Animations]
+Die = "26-27"
+Idle = "19-25"
+Spawn = "0-18"
+
+[Sprites.FrameDurations]
+26 = 100
+27 = 83
+19 = 70
+20 = 70
+21 = 69
+22 = 70
+23 = 69
+24 = 69
+25 = 53
+0 = 70
+1 = 70
+2 = 69
+3 = 70
+4 = 69
+5 = 69
+6 = 69
+7 = 70
+8 = 69
+9 = 69
+10 = 69
+11 = 69
+12 = 69
+13 = 69
+14 = 69
+15 = 70
+16 = 70
+17 = 70
+18 = 53

@@ -1,0 +1,10 @@
+ModTarget = "Tower.Flamethrower"
+
+[Sprites]
+Texture = "Flamethrower.Sprites.Idle.png"
+Width = 32
+Height = 32
+
+[Sprites.BaseSprites]
+Base = 0
+Cover = 1

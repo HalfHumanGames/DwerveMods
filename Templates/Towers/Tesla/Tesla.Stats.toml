@@ -1,0 +1,17 @@
+ModTarget = "Tower.Tesla"
+
+[Stats]
+Cost = 2
+ClassicTDCost = 10
+Health = 200
+Damage = 7
+ClassicTDDamage = 7
+Range = 9.0
+MaxProjectiles = 1
+ProjectileTravelSpeed = 50.0
+ProjectileMaxDistance = 10.0
+
+[Stats.Effects]
+KnockbackAmount = 0.0
+SlowAmount = 1.0
+SlowDuration = 999.0

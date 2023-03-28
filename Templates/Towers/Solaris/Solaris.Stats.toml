@@ -1,0 +1,17 @@
+ModTarget = "Tower.Solaris"
+
+[Stats]
+Cost = 2
+ClassicTDCost = 15
+Health = 200
+Damage = 4
+ClassicTDDamage = 3
+Range = 8.0
+MaxProjectiles = 1
+ProjectileTravelSpeed = 50.0
+ProjectileMaxDistance = 9.0
+
+[Stats.Effects]
+KnockbackAmount = 0.0
+SlowAmount = 0.0
+SlowDuration = 0.0

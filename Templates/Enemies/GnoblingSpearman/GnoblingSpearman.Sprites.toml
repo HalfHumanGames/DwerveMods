@@ -1,7 +1,7 @@
 ModTarget = "Enemy.GnoblingSpearman"
 
 [Sprites]
-Texture = "GnoblingSpearmanSprites.png"
+Texture = "GnoblingSpearman.Sprites.png"
 Width = 48
 Height = 48
 

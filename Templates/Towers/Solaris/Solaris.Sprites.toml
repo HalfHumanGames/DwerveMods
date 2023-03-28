@@ -1,0 +1,39 @@
+ModTarget = "Tower.Solaris"
+
+[Sprites]
+Texture = "Solaris.Sprites.png"
+Width = 64
+Height = 64
+
+[Sprites.BaseSprites]
+Base = 12
+
+[Sprites.Animations]
+Attack = "18-22,18-22,18-22"
+Idle = "18-22"
+Spawn = "0-17"
+
+[Sprites.FrameDurations]
+18 = 83
+19 = 83
+20 = 83
+21 = 83
+22 = 83
+0 = 59
+1 = 59
+2 = 59
+3 = 60
+4 = 59
+5 = 60
+6 = 60
+7 = 60
+8 = 59
+9 = 60
+10 = 60
+11 = 60
+12 = 60
+13 = 60
+14 = 60
+15 = 60
+16 = 60
+17 = 43

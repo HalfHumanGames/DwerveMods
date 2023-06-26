@@ -18,7 +18,7 @@ Speed = 8.6
 ```
 
 # CurseForge
-All mods including both official and user-created ones are hosted on [CurseForge](https://www.curseforge.com/dwerve/mods), a platform that lets you browse, download, and manage mods from their website and the in-game UI. On CurseForge, you can also publish your own mods by pressing [Start Project](https://www.curseforge.com/project/80345/6101/create) and then uploading a ZIP file that contains the TOML and image files for your mod.
+All mods including both official and user-created ones are hosted on [CurseForge](https://www.curseforge.com/dwerve/mods), a platform that lets you browse, download, and manage mods from their website and the in-game UI. On CurseForge, you can also publish your own mods by selecting [Start a project](https://www.curseforge.com/project/80345/6101/create) from the Create menu and then uploading a ZIP file that contains the TOML and image files for your mod.
 
 # Official Mods
 

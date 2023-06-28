@@ -1,7 +1,9 @@
 # Dwerve Mods
 Watch this 4-minute video and see how quick and easy it is to make your own mods for [Dwerve](https://store.steampowered.com/app/1132760/Dwerve/)!
 
-Join our [Mod Hackathon Contest](https://youtu.be/OYLlXvnXqnM) (ends July 6) with $5,000 in prizes. Top 3 mods win $1,000. Next top 20 mods win $100 Steam Gift Card!
+Join our [Mod Hackathon Contest](https://youtu.be/OYLlXvnXqnM) (ends July 6) with $5,000 in prizes:
+- Top 3 mods win $1,000!
+- Next top 20 mods win $100 Steam Gift Card!
 
 [![Dwerve Mods Tutorial Video](Assets/video-thumbnail.png)](https://youtu.be/0PtbafPWmwE)
 

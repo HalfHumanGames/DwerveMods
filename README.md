@@ -1,5 +1,5 @@
 # Dwerve Mods
-Watch this 4-minute video and see how quick and easy it is to make your own mods for the epic action-adventure RPG [Dwerve](https://store.steampowered.com/app/1132760/Dwerve/)!
+Watch this 4-minute video and see how quick and easy it is to make your own mods for [Dwerve](https://store.steampowered.com/app/1132760/Dwerve/)!
 
 [![Dwerve Mods Tutorial Video](Assets/video-thumbnail.png)](https://youtu.be/0PtbafPWmwE)
 

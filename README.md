@@ -1,3 +1,5 @@
+[阅读中文文档](README-zh-CN.md)
+
 # Dwerve Mods
 Watch this 4-minute video and see how quick and easy it is to make your own mods for [Dwerve](https://store.steampowered.com/app/1132760/Dwerve/)!
 

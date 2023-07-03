@@ -1,6 +1,9 @@
 ModTarget = "Configuration"
 GameMode = "Campaign"
 
+# Value format is Chapter.Level.Checkpoint
+# See https://github.com/HalfHumanGames/DwerveMods/blob/main/Enums/Levels.md
+
 [Artifacts]
 Boomerang = "1.1.2"
 Boots = "1.1.2"

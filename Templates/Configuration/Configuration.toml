@@ -1,7 +1,7 @@
 ModTarget = "Configuration"
 GameMode = "Campaign"
 
-# Value format is Chapter.Level.Checkpoint
+# Value format is Chapter.Level.Checkpoint and unlocks happen auto-magically
 # See https://github.com/HalfHumanGames/DwerveMods/blob/main/Enums/Levels.md
 
 [Artifacts]
